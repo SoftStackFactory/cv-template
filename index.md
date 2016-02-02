@@ -48,9 +48,9 @@ Worked for two summers on the Roasted Bean Coffe House as a barista.
 
 ## Hobbies
 
-Hiking
-Riding
-Cooking
+* Hiking
+* Riding 
+* Cooking
 
 ## Links
 
