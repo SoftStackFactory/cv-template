@@ -2,7 +2,10 @@
 layout: cv
 title: John Doe's CV
 ---
-# John Doe
+
+![Harold](./media/21.png){:.avatar}
+
+#John Doe
 Computer Science Student and Technology aficionado
 
 <div id="webaddress">
@@ -43,8 +46,8 @@ Achievement 2
 ## Experience
 
 `2010-11`
-__Roasted Bean Coffe House__
-Worked for two summers on the Roasted Bean Coffe House as a barista.
+__Roasted Bean Coffe House__ 
+ Worked for two summers on the Roasted Bean Coffe House as a barista.
 
 ## Hobbies
 

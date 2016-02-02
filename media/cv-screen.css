@@ -2,6 +2,15 @@
    v2.0 | 20110126
    License: none (public domain)
 */
+.avatar {
+    width: 95px;
+    max-width: 100%;
+    overflow: hidden;
+    border-radius: 100px;
+    margin: 15px 0;
+    display: block;
+ }
+
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -117,7 +126,6 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	margin-top: 2em;
 	left: 25%;
 	/* padding: .1rem 1rem; */
   text-shadow: 1px 1px #fff,
